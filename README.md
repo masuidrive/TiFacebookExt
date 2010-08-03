@@ -15,7 +15,7 @@ INSTALL TiFacebookExt
 1. Open `Terminal`
 2. Run below command
 
-	`python build.py && unzip facebookext-0.1.zip -d /Library/Application\ Support/Titanium/`
+	`python build.py && unzip facebookext-iphone-0.1.zip -d /Library/Application\ Support/Titanium/`
 
 
 REGISTER TO YOUR PROJECT
